@@ -1,1 +1,1 @@
-# musics-to-development
+# music-to-development
