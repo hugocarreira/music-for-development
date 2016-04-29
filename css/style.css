@@ -2,6 +2,15 @@
   margin: 0;
   padding: 0;
 }
+nav {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: none;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 50px
+}
 section {
     display: table;
     width: 100%;
@@ -35,6 +44,9 @@ section {
 }
 .love-footer {
     color:red;
+}
+.container-wide {
+    padding: 0 2em;
 }
 
 
