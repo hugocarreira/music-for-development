@@ -1,6 +1,6 @@
-sass/.sass-cache
-sass/components
-sass/materialize.css.map
-sass/materialize.scss
+css/.sass-cache
+css/components
+css/materialize.css.map
+css/materialize.scss
 js/*
 !js/bin/

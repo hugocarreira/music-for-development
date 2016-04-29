@@ -2118,7 +2118,7 @@ ul {
 blockquote {
   margin: 20px 0;
   padding-left: 1.5rem;
-  border-left: 5px solid #6a1b9a; }
+  border-left: 5px solid #4a148c; }
 
 i {
   line-height: inherit; }
@@ -2154,7 +2154,7 @@ video.responsive-video {
   .pagination li.active a {
     color: #fff; }
   .pagination li.active {
-    background-color: #6a1b9a; }
+    background-color: #4a148c; }
   .pagination li.disabled a {
     cursor: default;
     color: #999; }
@@ -2289,7 +2289,7 @@ ul.staggered-list li {
 footer.page-footer {
   margin-top: 20px;
   padding-top: 20px;
-  background-color: #6a1b9a; }
+  background-color: #4a148c; }
   footer.page-footer .footer-copyright {
     overflow: hidden;
     height: 50px;
@@ -2599,7 +2599,7 @@ input[type=range] + .thumb {
 .container {
   margin: 0 auto;
   max-width: 1280px;
-  width: 90%; }
+  width: 100%; }
 
 @media only screen and (min-width: 601px) {
   .container {
@@ -3036,10 +3036,11 @@ input[type=range] + .thumb {
 
 nav {
   color: #fff;
-  background-color: #6a1b9a;
+  background-color: #4a148c;
   width: 100%;
   height: 56px;
-  line-height: 56px; }
+  line-height: 56px;
+  padding-left: 15px; }
   nav a {
     color: #fff; }
   nav i,
@@ -3487,7 +3488,7 @@ small {
     width: 15%;
     min-width: 80px; }
     .tabs .tab a {
-      color: #6a1b9a;
+      color: #4a148c;
       display: block;
       width: 100%;
       height: 100%;
@@ -3495,15 +3496,15 @@ small {
       overflow: hidden;
       transition: color .28s ease; }
       .tabs .tab a:hover {
-        color: #a13edd; }
+        color: #7a26e0; }
     .tabs .tab.disabled a {
-      color: #a13edd;
+      color: #7a26e0;
       cursor: default; }
   .tabs .indicator {
     position: absolute;
     bottom: 0;
     height: 2px;
-    background-color: #9628d9;
+    background-color: #6d1ecf;
     will-change: left, right; }
 
 .material-tooltip {
@@ -5049,7 +5050,7 @@ input[type=range]:focus::-ms-fill-upper {
       transform: translateX(105%); } }
 .side-nav .collapsible-body li.active,
 .side-nav.fixed .collapsible-body li.active {
-  background-color: #6a1b9a; }
+  background-color: #4a148c; }
   .side-nav .collapsible-body li.active a,
   .side-nav.fixed .collapsible-body li.active a {
     color: #fff; }

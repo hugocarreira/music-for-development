@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+section {
+    display: table;
+    width: 100%;
+    // padding-top: 1rem;
+    // padding-bottom: 1rem;
+}
+.fixed {
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.v100 {
+    height: 100vh;
+}
+.v80 {
+    height: 80vh;
+}
+.v50 {
+    height: 50vh;
+}
+.radius-border{
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.opacity-background{
+    background: rgba(0,0,0,.5);
+}
+.github-footer {
+    margin-top:6px;
+}
+.love-footer {
+    color:red;
+}
+
+
