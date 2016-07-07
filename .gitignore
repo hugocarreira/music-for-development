@@ -1,6 +1,1 @@
-css/.sass-cache
-css/components
-css/materialize.css.map
-css/materialize.scss
-js/*
-!js/bin/
+node_modules
